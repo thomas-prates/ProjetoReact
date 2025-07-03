@@ -23,6 +23,12 @@ npm start
 Após execução do projeto, este é o resultado esperado no navegador:
 ![Gif mostrando o resultado esperado ao rodar este projeto](./data/paginaInicial.png)
 
+Após execução do projeto, este é o resultado esperado no navegador(lista):
+![Gif mostrando o resultado esperado ao rodar este projeto](./data/lista.png)
+
+Após execução do projeto, este é o resultado esperado no navegador(cadastro):
+![Gif mostrando o resultado esperado ao rodar este projeto](./data/cadastro.png)
+
 ## Introdução
 
 Esta é uma aplicação CRUD de um Reading Journal. Este projeto foi elaborado na disciplina Desenvolvimento de Sistemas Frontend do Curso de Graduação Online PUCRS.
